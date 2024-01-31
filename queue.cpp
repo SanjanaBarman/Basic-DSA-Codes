@@ -55,7 +55,7 @@ void dequeue()
 void display()
 {
 	int i;
-	if(front==-1 && front>rear)
+	if(front==-1 || front>rear)
 		printf("The queue is empty");
 	
 	else
