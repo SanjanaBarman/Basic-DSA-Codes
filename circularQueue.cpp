@@ -122,3 +122,79 @@ int main()
 	}
 	return 0;	
 }
+
+
+/*OUTPUT:-
+CIRCULAR QUEUE OPERATIONS USING ARRAY
+
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):3
+Enter the value you want to insert:5
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):3
+Enter the value you want to insert:9
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):1
+The queue is not full
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):2
+Queue is not empty
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):4
+The element deeleted:5
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):5
+The queue is:9
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):4
+The element deeleted:9
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):5
+The queue is empty
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):2
+The queue is empty
+1.isFull
+2.isEmpty
+3.Enqueue
+4.Dequeue
+5.Display
+Enter your choice(1/2/3/4/5):6
+Invalid input*/
+
